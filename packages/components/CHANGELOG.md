@@ -34,6 +34,7 @@
 -   `Shortcut`: Refactor away from `_.isObject()` ([#42336](https://github.com/WordPress/gutenberg/pull/42336/)).
 -   `RangeControl`: Convert to TypeScript ([#40535](https://github.com/WordPress/gutenberg/pull/40535)).
 -   `ExternalLink`: Refactor away from Lodash ([#42341](https://github.com/WordPress/gutenberg/pull/42341/)).
+-   `Divider`, `Flex`, `Spacer`: Improve documentation for the `SpaceInput` prop ([#42376](https://github.com/WordPress/gutenberg/pull/42376)).
 
 ## 19.14.0 (2022-06-29)
 
